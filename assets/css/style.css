@@ -1,0 +1,49 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.logo_fcr{
+  width: 70px;
+}
+
+.fondo_rojo{
+  background-color: #b72424 !important ;
+}
+
+/* seccion principal  */
+.titulos_h2{
+  padding-top: 25px;
+  text-align: center;
+  font-weight: 300;
+  color: #b72424;
+}
+
+.Sobre-mi{
+  display: flex;
+  padding: 10px 150px ;
+  padding-bottom: 15px;
+}
+
+.foto_perfil{
+  width: 400px;
+  border-radius: 30px;
+}
+
+.parrafo{
+  font-weight: 300;
+  padding-top: 150px;
+  padding-right: 120px;
+  text-align: justify;
+}
+
+
+.card-imagenes{
+  width: 18rem;
+}
+
+
+/* pie de pagina  */
+
+.img_footer{
+  width: 82px;
+}
